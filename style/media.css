@@ -49,6 +49,9 @@
         justify-content: space-between;
         width: 50%;
     }
+    .product .product-details .product-details-container .cart #add{
+        margin-top: 10px;
+    }
     .nav-mobile .nav-mobile__right-nav .cart-icon{
         position: relative;
     } 
